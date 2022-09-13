@@ -39,3 +39,8 @@ print(resultado)
 texto='Este es el texto de Federico'
 resultado=texto.replace('Federico','Todos').replace('texto','almuerzo')
 print(resultado)
+
+
+
+texto = 'IX'
+print(texto.split())
