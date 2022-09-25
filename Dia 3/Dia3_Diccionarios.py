@@ -45,6 +45,9 @@ print(dic.keys())
 print(dic.values())
 print(dic.items())
 
+for keys,values in dic.items():
+    print (keys,values)
+
 
 
 mi_dict = {"valores_1":{"v1":3,"v2":6},"puntos":{"points1":9,"points2":[10,300,15]}}
